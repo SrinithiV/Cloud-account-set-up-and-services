@@ -1,4 +1,4 @@
-# EX NO: Cloud-account-set-up-and-services
+# EX NO: 01 Cloud-account-set-up-and-services
 ### Name : SRINITHI V
 ### Register Number : 212223115003
 ### Department : CSE(IoT)
